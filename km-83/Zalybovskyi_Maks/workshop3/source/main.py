@@ -47,3 +47,6 @@ def getInfo(List,key):
 
 print(getInfo(dataset,'wood'))
 
+
+
+
